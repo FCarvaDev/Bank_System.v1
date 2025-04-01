@@ -1,4 +1,4 @@
-# Bank_System.v1 PT/BR
+# Bank_System.v2 PT/BR
 ## 💻 **Simple Bank System with Python**
 
 **Operations**:
@@ -8,6 +8,12 @@
 💸 _Withdraw_;
 
 🧾 _Extract_;
+
+🧍‍♂️ _New User_;
+
+➕ _New Account_;
+
+💼 _Accounts_;
 
 🏃‍♂️ _Exit_;
 
